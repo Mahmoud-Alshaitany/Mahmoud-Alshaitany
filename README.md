@@ -8,7 +8,7 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmoud-elshaitany-329b89365)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mahmoudelshaitany137@gmail.com) <br>
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mahmoudelshaitany137@gmail.com) <br>
 </div>
 
 <hr></hr>
