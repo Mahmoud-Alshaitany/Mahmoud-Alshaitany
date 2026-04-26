@@ -25,7 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ```javascript
 // My Technical Skills organized
 
@@ -33,6 +33,6 @@ const mahmoud = {
   pronouns: "He / Him",
   code: ["Java", "Python", "C++", "JavaScript"],
   web: ["HTML5", "CSS3", "Bootstrap"],
-  tools: ["Git", "VS Code", "NetBeans"],
+  tools: ["Git", "VS Code","Intellij IDEA", "NetBeans"],
   challenge: "Building scalable and user-friendly web applications"
 };
